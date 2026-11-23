@@ -91,7 +91,7 @@ These findings highlight areas for further investigation in inventory planning, 
 
 ## 10. Power BI Dashboard Preview
 
-![Retail Inventory Homepage](images/Homepage.png)
+![Home_page](images/Home_page.png)
 
 ![Inventory Performance Overview](images/Inventory_Performance_Overview.png)
 
