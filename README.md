@@ -93,25 +93,25 @@ These findings highlight areas for further investigation in inventory planning, 
 
 ![Retail Inventory Homepage](images/Homepage.png)
 
-![Inventory Performance Overview](images/Inventory%20Performance%20Overview.png)
+![Inventory Performance Overview](images/Inventory_Performance_Overview.png)
 
-![Product Performance and Inventory Health](images/Product%20Performance%20and%20Inventory%20Health.png)
+![Product Performance and Inventory Health](images/Product_Performance_and_Inventory_Health.png)
 
-![Spoilage and Supply Patterns](images/Spoilage%20and%20Supply%20Patterns.png)
+![Spoilage and Supplier Patterns](images/Spoilage_and_Supplier_Patterns.png)
 
-![Stock Availability and Replenishment Risks](images/Stock%20Availability%20and%20Replenishment%20Risks.png)
+![Stock Availability and Replenishment Risks](images/Stock_Availability_and_Replenishment_Risk.png)
 
 ## 11. Excel Analysis Preview
 
-![Excel Cleaning Log - Part 1](images/Excel%20Cleaning%20Log%201.png)
+![Excel Cleaning Log - Part 1](images/Excel_Cleaning_Log_1.png)
 
-![Excel Cleaning Log - Part 2](images/Excel%20Cleaning%20Log%202.png)
+![Excel Cleaning Log - Part 2](images/Excel_Cleaning_Log_2.png)
 
-![Excel Data Quality Check](images/Excel%20Data%20Quality%20Check.png)
+![Excel Data Quality Check](images/Excel_Data_Quality_Check.png)
 
-![Excel Final Analysis](images/Excel%20Final%20Analysis.png)
+![Excel Final Analysis](images/Excel_Final_Analysis.png)
 
-![Excel KPI Calculations](images/Excel%20KPI%20Calculations.png)
+![Excel KPI Calculations](images/Excel_KPI_Calculations.png)
 
 ## 12. Repository Structure
 
